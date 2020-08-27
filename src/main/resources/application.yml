@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: search-engine
+
+server:
+  port: 9091
+
+google:
+  key: the_key
